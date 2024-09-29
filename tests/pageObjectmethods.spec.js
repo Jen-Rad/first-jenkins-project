@@ -24,6 +24,7 @@ test("Set the window size", async ({ page }) => {
 
   await page.goto("https://practice.cydeo.com/");
 
+  
 });
 
 
